@@ -3,3 +3,4 @@ backend:
   repo: Skeith918/consultation-hubvisory # Path to your Github repository
   branch: master # Branch to update
 media_folder: "img"
+publish_mode: editorial_workflow
