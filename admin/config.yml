@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: Skeith918/consultation-hubvisory # Path to your Github repository
+  branch: master # Branch to update
+media_folder: "img"
