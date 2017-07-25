@@ -9,26 +9,3 @@ collections:
     output: true
   usage:
     output: true
-
-defaults:
-  -
-    scope:
-      path: ""	# means "all files"
-      type: outil	# targets a collection
-    values:
-      layout: outil
-      default_logo: 
-
-  -
-    scope:
-      path: ""	# means "all files"
-      type: usage	# targets a collection
-    values:
-      layout: usage
-  -
-    scope:
-      path: ""  # means "all files"
-    values:
-      layout: default
-
-markdown: kramdown
